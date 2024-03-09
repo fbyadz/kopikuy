@@ -4,21 +4,21 @@
             "foto": "images/produk/product_capuchino.jpg",
             "nama": "Cappuccino Arabica",
             "size": "500 Gram",
-            "harga": "200.000",
+            "harga": "85.000",
             "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
         },
         {
             "foto": "images/produk/product_espresso.jpg",
             "nama": "Pahit Arabica",
             "size": "100 Gram",
-            "harga": "100.000",
+            "harga": "70.000",
             "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
         },
         {
             "foto": "images/produk/product_macchiato.jpg",
             "nama": "Macchiato",
             "size": "100 Gram",
-            "harga": "100.000",
+            "harga": "65.000",
             "link": "https://www.tokopedia.com/rekomendasi/364224506?srsltid=AfmBOopaMpfAkHHF7fFVubi3U64rsRS5m-0JrR9NC0HjphCUiNpXdoJSlT4"
         },
         {
@@ -39,21 +39,21 @@
             "foto": "images/produk/product_latte.jpg",
             "nama": "Latte Arabica",
             "size": "150 Gram",
-            "harga": "150.000",
+            "harga": "70.000",
             "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
         },
         {
             "foto": "images/produk/product_red_eye.jpg",
             "nama": "Red Eye",
             "size": "150 Gram",
-            "harga": "150.000",
+            "harga": "50.000",
             "link": "https://www.google.com/search?q=red+coffee&sa=X&sca_esv=224fa05bca59979e&biw=1366&bih=648&tbm=shop&sxsrf=ACQVn0-jwI6E6nauYKKGH6KIgg3LubfWAg%3A1709901775590&ei=zwfrZbCFHc7fseMP-OidYA&oq=red+&gs_lp=Egtwcm9kdWN0cy1jYyIEcmVkICoCCAAyChAAGIAEGIoFGEMyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARI9EFQuglYzTVwA3gAkAEAmAHEAaABxgeqAQMzLjW4AQPIAQD4AQGYAgugAtkIwgIGEAAYBxgemAMAiAYBkgcFNC41LjKgB-om&sclient=products-cc#spd=17618356607091258841"
         },
         {
             "foto": "images/produk/product_affogato.jpg",
             "nama": "Affogato",
             "size": "150 Gram",
-            "harga": "150.000",
+            "harga": "70.000",
             "link": "https://www.google.com/search?q=affogato&sa=X&sca_esv=224fa05bca59979e&biw=1366&bih=648&tbm=shop&sxsrf=ACQVn0-RsS6ayvNXmzgLxvFahEm6QT-fMg%3A1709905477706&ei=RRbrZbfCKrqMseMPivC9gAs&oq=affo&gs_lp=Egtwcm9kdWN0cy1jYyIEYWZmbyoCCAAyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB5IlxhQqgFY1Q1wAHgAkAEAmAH3AaABqwWqAQUzLjEuMbgBA8gBAPgBAZgCBaAC0AWoAgfCAgsQrgEYygMY6gIYJ8ICChAAGIAEGIoFGEOYA_4BkgcFMS4zLjGgB783&sclient=products-cc"
         }
     ],
@@ -62,56 +62,56 @@
             "foto": "images/produk/product_kopi_susu.jpg",
             "nama": "Kopsus Robusta",
             "size": "100 Gram",
-            "harga": "500.000",
+            "harga": "80.000",
             "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
         },
         {
             "foto": "images/produk/product_red_velvet.jpg",
             "nama": "Red Velvet",
             "size": "150 Gram",
-            "harga": "150.000",
+            "harga": "90.000",
             "link": "https://www.google.com/search?q=red+velvet+coffee&sa=X&sca_esv=224fa05bca59979e&biw=1366&bih=648&tbm=shop&sxsrf=ACQVn0_kYje1bp-OEBCuWg9IGKv2YjSZdA%3A1709902460550&ei=fArrZd68IMqRseMP-fmBsAw&oq=red+velvet+co&gs_lp=Egtwcm9kdWN0cy1jYyINcmVkIHZlbHZldCBjbyoCCAAyBRAAGIAEMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeSMA3UKAGWLgqcAB4AJABAZgBoAagAaUpqgELMi01LjYuMS4xLjG4AQPIAQD4AQGYAg2gArAkqAIHwgILEK4BGMoDGOoCGCeYA-QCkgcKMi0xLjEwLjEuMaAH4WM&sclient=products-cc"
         },
         {
             "foto": "images/produk/product_brown_sugar.jpg",
             "nama": "Brown Sugar",
             "size": "150 Gram",
-            "harga": "150.000",
+            "harga": "70.000",
             "link": "https://www.google.com/search?q=brown+sugar+coffee&sa=X&sca_esv=224fa05bca59979e&biw=1366&bih=648&tbm=shop&sxsrf=ACQVn09enHoHf76rDQvICuQUD_fJ9IX1nA%3A1709902917502&ei=RQzrZeXsHYubnesPr--4qA4&ved=0ahUKEwilo_3f3OSEAxWLTWcHHa83DuUQ4dUDCAg&uact=5&oq=brown+sugar+coffee&gs_lp=Egtwcm9kdWN0cy1jYyISYnJvd24gc3VnYXIgY29mZmVlMgcQABiABBgTMgcQABiABBgTMgcQABiABBgTMgcQABiABBgTMggQABgWGB4YEzIIEAAYFhgeGBMyCBAAGBYYHhgTMggQABgWGB4YEzIIEAAYFhgeGBMyCBAAGBYYHhgTSNQ-UMoEWMY8cAJ4AJABAJgB6wOgAcogqgEJMC41LjQuNC4yuAEDyAEA-AEBmAIQoAL0HqgCB8ICCxCuARjKAxjqAhgnwgIKEAAYgAQYigUYQ8ICBRAAGIAEwgIGEAAYFhgewgIKEAAYgAQYDRjWBcICCRAAGB4YDRjWBZgD0gOSBwkyLjQuNS4zLjKgB_9r&sclient=products-cc"
         },
         {
             "foto": "images/produk/product_tarro_milk_tea.jpg",
             "nama": "Taro Milk Tea",
             "size": "150 Gram",
-            "harga": "150.000",
+            "harga": "50.000",
             "link": "https://www.google.com/search?q=brown+sugar+coffee&sa=X&sca_esv=224fa05bca59979e&biw=1366&bih=648&tbm=shop&sxsrf=ACQVn09enHoHf76rDQvICuQUD_fJ9IX1nA%3A1709902917502&ei=RQzrZeXsHYubnesPr--4qA4&ved=0ahUKEwilo_3f3OSEAxWLTWcHHa83DuUQ4dUDCAg&uact=5&oq=brown+sugar+coffee&gs_lp=Egtwcm9kdWN0cy1jYyISYnJvd24gc3VnYXIgY29mZmVlMgcQABiABBgTMgcQABiABBgTMgcQABiABBgTMgcQABiABBgTMggQABgWGB4YEzIIEAAYFhgeGBMyCBAAGBYYHhgTMggQABgWGB4YEzIIEAAYFhgeGBMyCBAAGBYYHhgTSNQ-UMoEWMY8cAJ4AJABAJgB6wOgAcogqgEJMC41LjQuNC4yuAEDyAEA-AEBmAIQoAL0HqgCB8ICCxCuARjKAxjqAhgnwgIKEAAYgAQYigUYQ8ICBRAAGIAEwgIGEAAYFhgewgIKEAAYgAQYDRjWBcICCRAAGB4YDRjWBZgD0gOSBwkyLjQuNS4zLjKgB_9r&sclient=products-cc"
         },
         {
             "foto": "images/produk/product_matcha.jpg",
             "nama": "Matcha Green Tea",
             "size": "150 Gram",
-            "harga": "150.000",
+            "harga": "60.000",
             "link": "https://www.google.com/search?q=matcha+green+tea&sa=X&sca_esv=224fa05bca59979e&biw=1366&bih=648&tbm=shop&sxsrf=ACQVn08M1GZ0pNmYZWbIOgOfcrshzm4YQg%3A1709903114563&ei=Cg3rZcTQIaiNseMPnZy-gAg&oq=matcha+gree&gs_lp=Egtwcm9kdWN0cy1jYyILbWF0Y2hhIGdyZWUqAggAMgUQABiABDIFEAAYgAQyBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeSMw3UNkKWJUrcAJ4AJABAZgBtQWgAY0hqgELMC4yLjYuNS4wLjG4AQPIAQD4AQGYAg-gAv4cwgIHEAAYgAQYE8ICCBAAGAcYHhgTwgIIEAAYCBgeGBPCAgoQABiABBiKBRhDwgIHEAAYgAQYDZgDAIgGAZIHBzIuMS43LjWgB5RG&sclient=products-cc"
         },
         {
             "foto": "images/produk/product_vanilla.jpg",
             "nama": "Vanilla Milk",
             "size": "150 Gram",
-            "harga": "150.000",
+            "harga": "70.000",
             "link": "https://www.google.com/search?q=vanilla+milk&sa=X&sca_esv=224fa05bca59979e&biw=1366&bih=648&tbm=shop&sxsrf=ACQVn0-_T8kE3WvmpSfAmcIaFhqZg8rqTA%3A1709903460134&ei=ZA7rZbKyB8-eseMPmaC4-Ak&ved=0ahUKEwiy9Nzi3uSEAxVPT2wGHRkQDp8Q4dUDCAg&uact=5&oq=vanilla+milk&gs_lp=Egtwcm9kdWN0cy1jYyIMdmFuaWxsYSBtaWxrMgUQABiABDIFEAAYgAQyBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeSPbPCFDqpAhY0cwIcAN4AJABAJgBzwKgAcwMqgEIMTEuMS4xLjG4AQPIAQD4AQGYAhGgAvwNqAIHwgIKEAAYgAQYigUYQ8ICBhAAGAcYHsICCxCuARjKAxjqAhgnmAOIAogGAZIHCDEwLjUuMS4xoAfnYg&sclient=products-cc"
         },
         {
             "foto": "images/produk/product_hazelnut.jpg",
             "nama": "Hazelnut Milk",
             "size": "150 Gram",
-            "harga": "150.000",
+            "harga": "50.000",
             "link": "https://www.google.com/search?q=hazelnut+milk&sa=X&sca_esv=224fa05bca59979e&biw=1366&bih=648&tbm=shop&sxsrf=ACQVn0_ZSz7r8DshupFLBFWdwWOytFJlSg%3A1709903693698&ei=TQ_rZbfkKcWmseMP1eOLsAI&oq=haze&gs_lp=Egtwcm9kdWN0cy1jYyIEaGF6ZSoCCAAyChAAGIAEGIoFGEMyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARIwaIOUMyLDlihkw5wAXgAkAEAmAGzB6ABrhKqAQkzLTEuMS4xLjG4AQPIAQD4AQGYAgWgAq8TqAIHwgILEK4BGMoDGOoCGCeYAxKSBwsxLjMtMS4xLjEuMaAHshM&sclient=products-cc"
         },
         {
             "foto": "images/produk/product_durian_milk.jpg",
             "nama": "Durian Milk Tea",
             "size": "150 Gram",
-            "harga": "150.000",
+            "harga": "50.000",
             "link": "https://www.google.com/search?q=durian+milk+tea&sa=X&sca_esv=224fa05bca59979e&biw=1366&bih=648&tbm=shop&sxsrf=ACQVn0-Y7lV53yyrnWJmYUkVd76GfO7lbA%3A1709904082284&ei=0hDrZfPHELGeseMPlMajyAI&ved=0ahUKEwjz-LGL4eSEAxUxT2wGHRTjCCkQ4dUDCAg&uact=5&oq=durian+milk+tea&gs_lp=Egtwcm9kdWN0cy1jYyIPZHVyaWFuIG1pbGsgdGVhMgYQABgWGB5IlSRQlwVY1CFwAHgAkAEAmAGWA6AB1R2qAQkwLjEuNi41LjG4AQPIAQD4AQGYAg2gAtIeqAIHwgILEK4BGMoDGOoCGCfCAgoQABiABBiKBRhDwgIFEAAYgATCAgoQABiABBgNGNYFmAN4kgcJMC4xLjQuNy4xoAetVw&sclient=products-cc"
         }
     ],
@@ -141,7 +141,7 @@
             "foto": "images/produk/product_dimsum.jpg",
             "nama": "Dimsum",
             "size": "Goreng",
-            "harga": "750.000",
+            "harga": "75.000",
             "link": "https://www.google.com/search?q=dimsum&sa=X&sca_esv=224fa05bca59979e&biw=1366&bih=648&tbm=shop&sxsrf=ACQVn09o6yONkXLNa98GGmx8xxgDFqaw3Q%3A1709905185142&ei=IRXrZfTDB8_cseMPm-ez0AE&ved=0ahUKEwi02KKZ5eSEAxVPbmwGHZvzDBoQ4dUDCAg&uact=5&oq=dimsum&gs_lp=Egtwcm9kdWN0cy1jYyIGZGltc3VtMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEjLD1CfBVj_DHAAeACQAQCYAb8FoAHnDqoBCzAuMS40LTEuMS4xuAEDyAEA-AEBmAIEoAKcD6gCB8ICCxCuARjKAxjqAhgnmAPNAZIHCTItMS4wLjEuMqAHtTI&sclient=products-cc"
         }
     ]
